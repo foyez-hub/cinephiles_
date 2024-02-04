@@ -45,7 +45,7 @@ These instructions will help you set up and run the project on your local machin
 
 5. **Configure Environment:**
 
-    Rename `.env.example` to `.env` and update the database connection settings.
+    Rename `.env.example` to `.env` and in the  .env file  set  the [ ` DB_DATABASE=cinephilesdb `] .
 
 6. **Generate Application Key:**
 
