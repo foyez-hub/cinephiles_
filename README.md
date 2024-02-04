@@ -19,7 +19,7 @@ These instructions will help you set up and run the project on your local machin
 1. **Clone the Repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/foyez-hub/cinephiles_.git
     cd Cinephilesdb
     ```
 
