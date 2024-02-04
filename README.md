@@ -20,13 +20,13 @@ These instructions will help you set up and run the project on your local machin
 
     ```bash
     git clone https://github.com/foyez-hub/cinephiles_.git
-    cd Cinephilesdb
+    cd cinephiles_
     ```
 
 2. **Switch to Database Branch and Download Database File:**
 
     ```bash
-    git checkout DatabaseBranch
+    git checkout Database
     ```
 
     Find and download the cinephilesdb file.
